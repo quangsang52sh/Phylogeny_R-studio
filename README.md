@@ -17,7 +17,7 @@ https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/model.r<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/fix-tree-by-hand<br/>
 Part3: Building the phylogenetic tree<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/tree-by-hand.r<br/>
-# Video tutorior
+# Video tutorial
 https://youtu.be/JvKks0ArNso
 # If Windows 
 Following thhis link:
