@@ -7,7 +7,7 @@ Before handshake for the job, please installing R software (link as below)
 # R-base and R-studio
 Lastest R-base version: https://cran.r-project.org/bin/windows/base/<br/>
 Latest R-studio version: https://rstudio.com/products/rstudio/download/
-# Choose flatform installing in your laptop
+# Choose platform installing in your laptop
 # If Ubuntu/Linux 
 Following this link: 
 # If Windows 
