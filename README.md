@@ -10,13 +10,13 @@ Latest R-studio version: https://rstudio.com/products/rstudio/download/
 # Choose platform installing in your laptop
 # If Ubuntu/Linux 
 # Remember to fix your own path when using these scripts 
-Part1: Processing and alignment fasta file 
-https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/aliprocess.r
-Part2: Find the best modeltest
-https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/model.r
-https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/fix-tree-by-hand
-Part3: Building the phylogenetic tree
-https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/tree-by-hand.r
+Part1: Processing and alignment fasta file<br/>
+https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/aliprocess.r<br/>
+Part2: Find the best modeltest<br/>
+https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/model.r<br/>
+https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/fix-tree-by-hand<br/>
+Part3: Building the phylogenetic tree<br/>
+https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/tree-by-hand.r<br/>
 # Video tutorior
 
 # If Windows 
