@@ -9,6 +9,7 @@ Lastest R-base version: https://cran.r-project.org/bin/windows/base/<br/>
 Latest R-studio version: https://rstudio.com/products/rstudio/download/
 # Choose platform installing in your laptop
 # If Ubuntu/Linux 
+Type "R" to open sofware
 # Remember to fix your own path when using these scripts 
 Part1: Processing and alignment fasta file<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/aliprocess.r<br/>
