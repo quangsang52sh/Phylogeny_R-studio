@@ -10,7 +10,8 @@ Latest R-studio version: https://rstudio.com/products/rstudio/download/
 # Choose platform installing in your laptop
 # If Ubuntu/Linux 
 Install with command line: sudo apt install r-base<br/>
-Type "R" to open sofware
+Type "R" to open sofware<br/>
+<img src="https://user-images.githubusercontent.com/51614765/98063834-87091300-1e83-11eb-815c-3c4d454967d1.png" width="30%"></img> 
 # Remember to fix your own path when using these scripts 
 Part1: Processing and alignment fasta file<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/aliprocess.r<br/>
