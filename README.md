@@ -25,7 +25,7 @@ Part3: Building the phylogenetic tree<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/tree-by-hand.r<br/>
 source("tree-by-hand.r")<br/>
 # Video tutorial
-<iframe class="parent" src="https://members.viewpure.com/videos/embed/JvKks0ArNso" style="width: 320px;height:240px; border-width: 2px;border-style: solid; border-color: red;"></iframe><br/>
+http://www.viewpure.com/QS<br/>
 Password unlock by <br/>
 gmail: sangcnsh.ntu@gmail.com <br/>
 Zalo: +84975359004<br/>
