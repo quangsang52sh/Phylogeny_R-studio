@@ -9,6 +9,7 @@ Lastest R-base version: https://cran.r-project.org/bin/windows/base/<br/>
 Latest R-studio version: https://rstudio.com/products/rstudio/download/
 # Choose platform installing in your laptop
 # If Ubuntu/Linux 
+Install with command line: sudo apt install r-base<br/>
 Type "R" to open sofware
 # Remember to fix your own path when using these scripts 
 Part1: Processing and alignment fasta file<br/>
@@ -21,4 +22,5 @@ https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/tree-by-hand.r<br/
 # Video tutorial
 https://youtu.be/JvKks0ArNso
 # If Windows 
-Following thhis link:
+Step1: Open R-studio<br/>
+
