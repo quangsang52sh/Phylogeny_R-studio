@@ -23,4 +23,4 @@ https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/tree-by-hand.r<br/
 https://youtu.be/JvKks0ArNso
 # If Windows 
 Step1: Open R-studio<br/>
-https://github.com/quangsang52sh/Phylogeny_R-studio/issues/1#issue-735763424
+<img src="https://user-images.githubusercontent.com/51614765/98062209-21675780-1e80-11eb-8852-ffd11f812d04.png" width="30%"></img> 
