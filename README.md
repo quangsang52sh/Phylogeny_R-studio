@@ -25,7 +25,10 @@ Part3: Building the phylogenetic tree<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/tree-by-hand.r<br/>
 source("tree-by-hand.r")<br/>
 # Video tutorial
-https://youtu.be/JvKks0ArNso
+http://www.viewpure.com/QS<br/>
+Password unlock by <br/>
+gmail: sangcnsh.ntu@gmail.com <br/>
+Zalo: +84975359004<br/>
 # If Windows 
 Step1: Open R-studio<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98062932-8a030400-1e81-11eb-9902-6247af9477f2.png" width="30%"></img><br/>
