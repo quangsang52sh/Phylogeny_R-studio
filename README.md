@@ -29,11 +29,12 @@ https://youtu.be/JvKks0ArNso
 # If Windows 
 Step1: Open R-studio<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98062932-8a030400-1e81-11eb-9902-6247af9477f2.png" width="30%"></img><br/>
-Interface:<br/>
-1. <br/>
-2. <br/>
-3. <br/>
-4. <br/>
+Interface includes 4 region <br/>
+1. Code editor <br/>
+2. Data container and variables <br/>
+3. Command line <br/>
+4. Help <br/>
+
 
 
 
