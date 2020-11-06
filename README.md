@@ -71,5 +71,8 @@ Finding the best model in output model.txt by notepad++ <br/>
 <img src="https://user-images.githubusercontent.com/51614765/98326992-2580aa00-2025-11eb-87f7-51422d6b7c45.png" width="23%"></img> <br/>
 Output model.txt will be saved in folder of Step2
 # Step8: Building the phylogenetic tree
+Copy script from this link and paste in Command line region<br/>
+Rename the line "fix here" with the best model you are choosing in Step 7 <br/>
+https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/tree_by_hand_window.r<br/>
 
 
