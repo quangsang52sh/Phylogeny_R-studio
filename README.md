@@ -64,8 +64,11 @@ In mode part, change to edit for repairing sequence<br/>
 Copy script from this link and paste in Command line region<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/model_window.r<br/>
 Choose "processing_alignment.fasta" from new window tab<br/>
-Choose min AIC value 
-<img src="https://user-images.githubusercontent.com/51614765/98326969-18fc5180-2025-11eb-8d25-c6b0fa81aee8.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/51614765/98326976-1e599c00-2025-11eb-9f37-7637da31f885.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/51614765/98326982-21ed2300-2025-11eb-8c5c-455f5a4cad0a.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/51614765/98326992-2580aa00-2025-11eb-87f7-51422d6b7c45.png" width="23%"></img> <br/>
+<img src="https://user-images.githubusercontent.com/51614765/98326969-18fc5180-2025-11eb-8d25-c6b0fa81aee8.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/51614765/98326976-1e599c00-2025-11eb-9f37-7637da31f885.png" width="23%"></img> <br/>
+Choose min AIC value <br/>
+<img src="https://user-images.githubusercontent.com/51614765/98326982-21ed2300-2025-11eb-8c5c-455f5a4cad0a.png" width="23%"></img> <br/>
+Finding the best model in output model.txt by notepad++ <br/>
+<img src="https://user-images.githubusercontent.com/51614765/98326992-2580aa00-2025-11eb-87f7-51422d6b7c45.png" width="23%"></img> <br/>
 Output model.txt will be saved in folder of Step2
 # Step8: Building the phylogenetic tree
 
