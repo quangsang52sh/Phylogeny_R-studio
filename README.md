@@ -43,7 +43,14 @@ Type: getwd()    -----  This is the location folder to contain your data <br/>
 Using Notepad++ <br/>
 Replace gap '-' into 'N' <br/>
 Replace space ' ' into '_' <br/>
-# Step3: Create fasta file format and save file name filename.txt <br/>
+<img src="https://user-images.githubusercontent.com/51614765/98324187-2cf08500-201e-11eb-97f8-7893756c126f.png" width="15%"></img> <br/>
+# Step4: copy script from this link and paste in Command line region<br/>
+https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/alignment_window.r <br/>
+Choose filename.txt from new window tab<br/>
+<img src="https://user-images.githubusercontent.com/51614765/98324187-2cf08500-201e-11eb-97f8-7893756c126f.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/51614765/98324248-53162500-201e-11eb-95c9-80e46f4e7399.png" width="15%"></img> <br/>
+output file is gonna be save into your folder of Step2 <br/>
+
+
 
 
 
