@@ -37,9 +37,9 @@ The interface includes 4 regions <br/>
 2. Data container and variables <br/>
 3. Command line <br/>
 4. Help <br/>
-Step2: In command line region:<br/>
-Type: getwd()    -----  This is the location folder to contain your data<br/>
-Step3: Create fasta file format and save file name filename.txt<br/>
+Step2: In command line region: <br/>
+Type: getwd()    -----  This is the location folder to contain your data <br/>
+Step3: Create fasta file format and save file name filename.txt <br/>
 Using Notepad++ <br/>
 Replace gap '-' into 'N' <br/>
 Replace space ' ' into '_' <br/>
