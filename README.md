@@ -20,7 +20,7 @@ Part2: Find the best modeltest<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/model.r<br/>
 source("model.r")<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/fix-tree-by-hand<br/>
-bash fix-tree-by-hand<br/>
+bash fix-tree-by-hand.sh<br/>
 Part3: Building the phylogenetic tree<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/tree-by-hand.r<br/>
 source("tree-by-hand.r")<br/>
@@ -47,13 +47,13 @@ Replace space ' ' into '_' <br/>
 # Step4: Alignment<br/>
 Copy script from this link and paste in Command line region<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/alignment_window.r <br/>
-Choose filename.txt from new window tab<br/>
+Choose "filename.txt" from new window tab<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98324187-2cf08500-201e-11eb-97f8-7893756c126f.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/51614765/98324248-53162500-201e-11eb-95c9-80e46f4e7399.png" width="15%"></img> <br/>
 Output file is gonna be saved into your folder of Step2 <br/>
 # Step5: Processing <br/>
 Copy script from this link and paste in Command line region<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/Processing_alignment.r <br/>
-Choose filename.txt from new window tab<br/>
+Choose "alignment_sequence.fasta" from new window tab<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98324986-4bf01680-2020-11eb-97b8-9aa3e537f3e8.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/51614765/98324985-4a265300-2020-11eb-9145-d7eb0b55c1c9.png" width="15%"></img> <br/>
 output file is gonna be save into your folder of Step2 <br/>
 # Step6: Make equal sequence (Cutting head and tail) <br/>
@@ -61,7 +61,12 @@ Open Bioedit<br/>
 In mode part, change to edit for repairing sequence<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98325696-ff0d3f80-2021-11eb-85e5-86a45ecad1cf.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/51614765/98325711-046a8a00-2022-11eb-8e4c-f865d5253cd1.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/51614765/98325719-0896a780-2022-11eb-9ed8-2d48167a9fea.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/51614765/98325726-0b919800-2022-11eb-90cb-b49f19f2566f.png" width="23%"></img> <br/>
 # Step7: Modeltest (Finding the best model for building tree)
-
-
+Copy script from this link and paste in Command line region<br/>
+https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/model_window.r<br/>
+Choose "processing_alignment.fasta" from new window tab<br/>
+Choose min AIC value 
+<img src="https://user-images.githubusercontent.com/51614765/98326969-18fc5180-2025-11eb-8d25-c6b0fa81aee8.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/51614765/98326976-1e599c00-2025-11eb-9f37-7637da31f885.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/51614765/98326982-21ed2300-2025-11eb-8c5c-455f5a4cad0a.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/51614765/98326992-2580aa00-2025-11eb-87f7-51422d6b7c45.png" width="23%"></img> <br/>
+Output model.txt will be saved in folder of Step2
+# Step8: Building the phylogenetic tree
 
 
