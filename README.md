@@ -30,20 +30,20 @@ Password unlock by <br/>
 gmail: sangcnsh.ntu@gmail.com <br/>
 Zalo: +84975359004<br/>
 # If Windows 
-Step1: Open R-studio<br/>
+# Step1: Open R-studio<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98062932-8a030400-1e81-11eb-9902-6247af9477f2.png" width="30%"></img><br/>
 The interface includes 4 regions <br/>
 1. Code editor <br/>
 2. Data container and variables <br/>
 3. Command line <br/>
 4. Help <br/>
-Step2: In command line region: <br/>
+# Step2: In command line region: <br/>
 Type: getwd()    -----  This is the location folder to contain your data <br/>
-Step3: Create fasta file format and save file name filename.txt <br/>
+# Step3: Create fasta file format and save file name filename.txt <br/>
 Using Notepad++ <br/>
 Replace gap '-' into 'N' <br/>
 Replace space ' ' into '_' <br/>
-
+# Step3: Create fasta file format and save file name filename.txt <br/>
 
 
 
