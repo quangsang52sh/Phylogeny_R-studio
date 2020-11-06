@@ -49,7 +49,7 @@ Copy script from this link and paste in Command line region<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/alignment_window.r <br/>
 Choose filename.txt from new window tab<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98324187-2cf08500-201e-11eb-97f8-7893756c126f.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/51614765/98324248-53162500-201e-11eb-95c9-80e46f4e7399.png" width="15%"></img> <br/>
-output file is gonna be save into your folder of Step2 <br/>
+Output file is gonna be saved into your folder of Step2 <br/>
 # Step5: Processing <br/>
 Copy script from this link and paste in Command line region<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/Processing_alignment.r <br/>
@@ -58,7 +58,7 @@ Choose filename.txt from new window tab<br/>
 output file is gonna be save into your folder of Step2 <br/>
 # Step6: Make equal sequence (Cutting head and tail) <br/>
 Open Bioedit<br/>
-In mode part, change to edit for repairing sequence
+In mode part, change to edit for repairing sequence<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98325696-ff0d3f80-2021-11eb-85e5-86a45ecad1cf.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/51614765/98325711-046a8a00-2022-11eb-8e4c-f865d5253cd1.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/51614765/98325719-0896a780-2022-11eb-9ed8-2d48167a9fea.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/51614765/98325726-0b919800-2022-11eb-90cb-b49f19f2566f.png" width="23%"></img> <br/>
 # Step7: Modeltest (Finding the best model for building tree)
 
