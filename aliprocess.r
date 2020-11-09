@@ -5,7 +5,7 @@ options(repos = c(CRAN = "http://cran.rstudio.com",CRAN="http://cran.us.r-projec
 #source("https://bioconductor.org/biocLite.R")
 rm(list = ls())
 if (!require("DECIPHER")) {
-  biocLite("DECIPHER")
+  BiocManager::install("DECIPHER")
   library(DECIPHER)
 }
 #setwd("/home/tsang/Desktop/")
@@ -28,11 +28,11 @@ options(repos = c(CRAN = "http://cran.rstudio.com",CRAN="http://cran.us.r-projec
 #source("https://bioconductor.org/biocLite.R")
 rm(list = ls())
 if (!require("Biostrings")) {
-  biocLite("Biostrings")
+  BiocManager::install("Biostrings")
   library(Biostrings) 
 }
 if (!require("seqinr")) {
-  biocLite("seqinr")
+  BiocManager::install("seqinr")
   library(seqinr) 
 }
 #setwd("/home/tsang/Desktop/")
