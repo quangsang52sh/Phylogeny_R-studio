@@ -5,15 +5,15 @@ options(repos = c(CRAN = "http://cran.rstudio.com",CRAN="http://cran.us.r-projec
 #source("https://bioconductor.org/biocLite.R")
 rm(list = ls())
 if (!require("ape")) {
-  biocLite("ape")
+  BiocManager::install("ape")
   library(ape) 
 }
 if (!require("vegan")) {
-  biocLite("vegan")
+  BiocManager::install("vegan")
   library(vegan) 
 }
 if (!require("phangorn")) {
-  biocLite("phangorn")
+  BiocManager::install("phangorn")
   library(phangorn) 
 }
 #setwd("/home/tsang/Desktop/")
