@@ -1,6 +1,6 @@
 # Hi everyone!
-This script will help you learn how to build/construct the phylogenetic tree 
-# And
+Now, I will help you learn how to build/construct the phylogenetic tree<br/> 
+And<br/>
 how to code some simple command line for building the tree base on the tools which name's R-studio
 # Now let's do it!
 Before handshake for the job, please installing R software (link as below)
@@ -8,28 +8,28 @@ Before handshake for the job, please installing R software (link as below)
 Lastest R-base version: https://cran.r-project.org/bin/windows/base/<br/>
 Latest R-studio version: https://rstudio.com/products/rstudio/download/
 # Choose platform installing in your laptop
-# If Ubuntu/Linux 
+# If Ubuntu/Linux (3 steps)
 Install with command line: sudo apt install r-base<br/>
 Type "R" to open sofware<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98063834-87091300-1e83-11eb-815c-3c4d454967d1.png" width="30%"></img> 
 # Remember to fix your own path when using these scripts 
-Part1: Processing and alignment fasta file<br/>
+# Step1: Processing and alignment fasta file<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/aliprocess.r<br/>
 source("aliprocess.r")<br/>
-Part2: Find the best modeltest<br/>
+# Step2: Find the best modeltest<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/model.r<br/>
 source("model.r")<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/fix-tree-by-hand<br/>
 bash fix-tree-by-hand.sh<br/>
-Part3: Building the phylogenetic tree<br/>
+# Step3: Building the phylogenetic tree<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/tree-by-hand.r<br/>
 source("tree-by-hand.r")<br/>
-# Video tutorial
+# Video tutorial (For linux)
 http://www.viewpure.com/QS<br/>
 Password unlock by <br/>
 gmail: sangcnsh.ntu@gmail.com <br/>
 Zalo: +84975359004<br/>
-# If Windows 
+# If Windows (8 steps)
 # Step1: Open R-studio<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98062932-8a030400-1e81-11eb-9902-6247af9477f2.png" width="30%"></img><br/>
 The interface includes 4 regions <br/>
@@ -49,7 +49,7 @@ Copy script from this link and paste in Command line region<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/alignment_window.r <br/>
 Choose "filename.txt" from new window tab<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98324187-2cf08500-201e-11eb-97f8-7893756c126f.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/51614765/98324248-53162500-201e-11eb-95c9-80e46f4e7399.png" width="15%"></img> <br/>
-Output file is gonna be saved into your folder of Step2 <br/>
+Output file will gonna be saved into your folder of Step2 <br/>
 # Step5: Processing <br/>
 Copy script from this link and paste in Command line region<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/Processing_alignment.r <br/>
