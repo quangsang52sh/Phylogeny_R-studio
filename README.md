@@ -1,6 +1,5 @@
 # Hi everyone!
-Now, I will help you learn how to build/construct the phylogenetic tree<br/> 
-And<br/>
+So, I will help you learn how to build/construct the phylogenetic tree and<br/>
 how to code some simple command line for building the tree base on the tools which name's R-studio
 # Now let's do it!
 Before handshake for the job, please installing R software (link as below)
