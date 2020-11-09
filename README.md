@@ -29,14 +29,14 @@ http://www.viewpure.com/QS<br/>
 Password unlock by <br/>
 gmail: sangcnsh.ntu@gmail.com <br/>
 Zalo: +84975359004<br/>
-# If Windows (8 steps)
+# If Windows (9 steps)
 # Step1: Open R-studio<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98062932-8a030400-1e81-11eb-9902-6247af9477f2.png" width="30%"></img><br/>
 The interface includes 4 regions <br/>
 1. Code editor <br/>
 2. Data container and variables <br/>
 3. Command line <br/>
-4. Help <br/>
+4. Help and results <br/>
 # Step2: In command line region: <br/>
 Type: getwd()    -----  This is the location folder to contain your data <br/>
 # Step3: Create fasta file format and save file name filename.txt <br/>
@@ -69,10 +69,27 @@ Choose min AIC value <br/>
 <img src="https://user-images.githubusercontent.com/51614765/98326982-21ed2300-2025-11eb-8c5c-455f5a4cad0a.png" width="23%"></img> <br/>
 Finding the best model in output model.txt by notepad++ <br/>
 <img src="https://user-images.githubusercontent.com/51614765/98326992-2580aa00-2025-11eb-87f7-51422d6b7c45.png" width="23%"></img> <br/>
-Output model.txt will be saved in folder of Step2
+Output "model.txt" will be saved in folder of Step2
 # Step8: Building the phylogenetic tree
 Copy script from this link and paste in Command line region<br/>
-Rename the line "fix here" with the best model you are choosing in Step 7 <br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/tree_by_hand_window.r<br/>
+Rename the line "fix here" with the best model you are choosing in Step 7 <br/>
+<img src="https://user-images.githubusercontent.com/51614765/98494978-c911ca80-2270-11eb-875f-084b306881d3.png" width="15%"></img> <br/>
+Relaxing and drinking coffee for a while :D <br/>
+It will take the times to depend on your data <br/>
+<img src="https://user-images.githubusercontent.com/51614765/98495064-f1012e00-2270-11eb-820b-0254be031964.png" width="15%"></img> <br/>
+Done <br/>
+The phylogenetic tree will temporarily illustrate in "help and results" region (see step1)<br/>
+<img src="https://user-images.githubusercontent.com/51614765/98495070-f3638800-2270-11eb-9db5-8603fb518e32.png" width="15%"></img> <br/>
+Looking detail your model by the command line "your_model" <br/>
+<img src="https://user-images.githubusercontent.com/51614765/98495729-6e796e00-2272-11eb-8893-1b024347232b.png" width="15%"></img> <br/>
+Output "Yourtree.tre" will be saved in folder of Step2 <br/>
+# Step9: Showing your results in Mega software
+Opening Mega software and enjoy!<br/>
+<img src="https://user-images.githubusercontent.com/51614765/98496536-68848c80-2274-11eb-8447-0868e34752c7.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/51614765/98496540-6a4e5000-2274-11eb-8625-032abe6ce0de.png" width="15%"></img> <br/>
+# Done here and good luck!  
+# Contact me if you make any trouble
+gmail: sangcnsh.ntu@gmail.com <br/>
+Zalo: +84975359004<br/>
 
 
