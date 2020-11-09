@@ -78,8 +78,7 @@ Rename the line "fix here" with the best model you are choosing in Step 7 <br/>
 Relaxing and drinking coffee for a while :D <br/>
 It will take the times to depend on your data <br/>
 <img src="https://user-images.githubusercontent.com/51614765/98495064-f1012e00-2270-11eb-820b-0254be031964.png" width="15%"></img> <br/>
-Done <br/>
-The phylogenetic tree will temporarily illustrate in "help and results" region (see step1)<br/>
+The phylogenetic tree will temporarily illustrate in "help and results" region if you have done (see step1)<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98495070-f3638800-2270-11eb-9db5-8603fb518e32.png" width="15%"></img> <br/>
 Looking detail your model by the command line "your_model" <br/>
 <img src="https://user-images.githubusercontent.com/51614765/98495729-6e796e00-2272-11eb-8893-1b024347232b.png" width="15%"></img> <br/>
@@ -90,6 +89,6 @@ Opening Mega software and enjoy!<br/>
 # Done here and good luck!  
 # Contact me if you make any trouble
 gmail: sangcnsh.ntu@gmail.com <br/>
-Zalo: +84975359004<br/>
+Mobile and Zalo: +84975359004<br/>
 
 
