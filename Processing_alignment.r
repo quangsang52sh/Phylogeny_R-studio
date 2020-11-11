@@ -1,4 +1,4 @@
-#####QUANG-SANG-Writer-####################
+#####QUANG-SANG-Modified-####################
 #################################
 options(repos = c(CRAN = "http://cran.rstudio.com",CRAN="http://cran.us.r-project.org"))
 #source("https://bioconductor.org/biocLite.R")
