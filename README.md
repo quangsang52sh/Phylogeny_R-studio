@@ -39,7 +39,9 @@ The interface includes 4 regions <br/>
 # Step2: In command line region: <br/>
 Type: getwd()    -----  This is the location folder to contain your data <br/>
 # Step3: Create fasta file format and save file name filename.txt <br/>
-Using Notepad++ <br/>
+It will easy when you are using Notepad++ to format data (Recommended) <br/>
+Free download here: https://notepad-plus-plus.org/downloads/<br/>
+Open "filename.txt" by notepad++<br/>
 Replace gap '-' into 'N' <br/>
 Replace space ' ' into '_' <br/>
 <img src="https://user-images.githubusercontent.com/51614765/98324187-2cf08500-201e-11eb-97f8-7893756c126f.png" width="15%"></img> <br/>
