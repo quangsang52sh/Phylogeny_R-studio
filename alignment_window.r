@@ -1,4 +1,4 @@
-#####QUANG-SANG-Writer-####################
+#####QUANG-SANG-Modified-####################
 #################################
 ######Alignment###############
 options(repos = c(CRAN = "http://cran.rstudio.com",CRAN="http://cran.us.r-project.org"))
