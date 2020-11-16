@@ -35,9 +35,10 @@ The interface includes 4 regions <br/>
 1. Code editor <br/>
 2. Data container and variables <br/>
 3. Command line <br/>
-4. Help and results <br/>
+4. Help, files and results <br/>
 # Step2: In command line region: <br/>
 Type: getwd()    -----  This is the location folder to contain your data <br/>
+Results here "C:/Users/PC/Documents" <br/>
 # Step3: Create fasta file format and save file name filename.txt <br/>
 It will easy when you are using Notepad++ to format data (Recommended) <br/>
 Free download here: https://notepad-plus-plus.org/downloads/<br/>
