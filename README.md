@@ -29,6 +29,9 @@ Password unlock by <br/>
 gmail: sangcnsh.ntu@gmail.com <br/>
 Zalo: +84975359004<br/>
 # If Windows (9 steps)
+# Notifications
+If you have already created the fasta file and processed (making equal sequence) you should start at step 7 onwards<br/> 
+If not, you must to start at step 1 onwards<br/>
 # Step1: Open R-studio<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98062932-8a030400-1e81-11eb-9902-6247af9477f2.png" width="30%"></img><br/>
 The interface includes 4 regions <br/>
@@ -78,7 +81,7 @@ https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/tree_by_hand_windo
 Rename the line "fix here" with the best model you are choosing in Step 7 <br/>
 <img src="https://user-images.githubusercontent.com/51614765/98494978-c911ca80-2270-11eb-875f-084b306881d3.png" width="15%"></img> <br/>
 Relaxing and drinking coffee for a while :D <br/>
-It will take the times to depend on your data <br/>
+It will take the times depending on your data <br/>
 <img src="https://user-images.githubusercontent.com/51614765/98495064-f1012e00-2270-11eb-820b-0254be031964.png" width="15%"></img> <br/>
 The phylogenetic tree will temporarily illustrate in "help and results" region if you have done (see step1)<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98495070-f3638800-2270-11eb-9db5-8603fb518e32.png" width="15%"></img> <br/>
