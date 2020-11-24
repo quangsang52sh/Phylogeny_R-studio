@@ -33,7 +33,7 @@ Zalo: +84975359004<br/>
 # Notifications
 If you have already created the fasta file and processed (Step1 to Step6), you should start at step 7 onwards<br/> 
 If not, you must start at step 1 onwards<br/>
-# Step1: Open Rstudio and interface skimming<br/>
+# Step1: Open R-studio and interface skimming<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98062932-8a030400-1e81-11eb-9902-6247af9477f2.png" width="30%"></img><br/>
 The interface includes 4 regions <br/>
 1. Code editor <br/>
@@ -62,7 +62,7 @@ https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/Processing_alignme
 Choose "alignment_sequence.fasta" from new window tab<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98324986-4bf01680-2020-11eb-97b8-9aa3e537f3e8.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/51614765/98324985-4a265300-2020-11eb-9145-d7eb0b55c1c9.png" width="15%"></img> <br/>
 output file is gonna be save into your folder of Step2 <br/>
-# Step6: Make equal sequence (Cutting head and tail) <br/>
+# Step6: Make equal sequence (head and tail removing) <br/>
 Open Bioedit<br/>
 In mode part, change to edit for repairing sequence<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98325696-ff0d3f80-2021-11eb-85e5-86a45ecad1cf.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/51614765/98325711-046a8a00-2022-11eb-8e4c-f865d5253cd1.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/51614765/98325719-0896a780-2022-11eb-9ed8-2d48167a9fea.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/51614765/98325726-0b919800-2022-11eb-90cb-b49f19f2566f.png" width="23%"></img> <br/>
@@ -84,7 +84,7 @@ Rename the line "fix here" with the best model you are choosing in Step 7 <br/>
 Relaxing and drinking coffee for a while :D <br/>
 It will take the times depending on your data <br/>
 <img src="https://user-images.githubusercontent.com/51614765/98495064-f1012e00-2270-11eb-820b-0254be031964.png" width="15%"></img> <br/>
-The phylogenetic tree will temporarily illustrate in "help and results" region if you have done (see step1)<br/>
+The phylogenetic tree will temporarily illustrate in "help and results" (see the image in step1) region if you have done <br/>
 <img src="https://user-images.githubusercontent.com/51614765/98495070-f3638800-2270-11eb-9db5-8603fb518e32.png" width="15%"></img> <br/>
 Looking detail your model by the command line "your_model" <br/>
 <img src="https://user-images.githubusercontent.com/51614765/98495729-6e796e00-2272-11eb-8893-1b024347232b.png" width="15%"></img> <br/>
