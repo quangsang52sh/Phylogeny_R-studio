@@ -80,7 +80,7 @@ Output "model.txt" will be saved in folder of Step2
 Copy script from this link and paste in Command line region<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/tree_by_hand_window.r<br/>
 Rename the line "fix here" with the best model you are choosing in Step 7 <br/>
-<img src="https://user-images.githubusercontent.com/51614765/98494978-c911ca80-2270-11eb-875f-084b306881d3.png" width="15%"></img> <br/>
+<img src="https://user-images.githubusercontent.com/51614765/100067698-2c9f1900-2e69-11eb-8b89-47ba04686bc4.png" width="15%"></img>  <br/>
 Relaxing and drinking coffee for a while :D <br/>
 It will take the times depending on your data <br/>
 <img src="https://user-images.githubusercontent.com/51614765/98495064-f1012e00-2270-11eb-820b-0254be031964.png" width="15%"></img> <br/>
