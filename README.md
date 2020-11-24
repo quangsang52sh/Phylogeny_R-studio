@@ -1,13 +1,14 @@
 # Hi everyone!
 I am very glad to share with you how to build/construct the phylogenetic tree and<br/>
 how to use my script to write some simple command lines for building the tree based on the tools which name is R-studio
+# (Important) Please read clearly before starting and following these steps!
 # Now let's do it!
 Before entering the jobs, please installing R software (link as below), If the software is already installed, skip it. 
 # R-base and R-studio
 Lastest R-base version: https://cran.r-project.org/bin/windows/base/<br/>
 Latest R-studio version: https://rstudio.com/products/rstudio/download/
 # Choose platform installing in your laptop
-# If Ubuntu/Linux (3 steps)
+# Ubuntu/Linux (3 steps)
 Install with command line: sudo apt install r-base<br/>
 Type "R" to open sofware<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98063834-87091300-1e83-11eb-815c-3c4d454967d1.png" width="30%"></img> 
@@ -25,14 +26,14 @@ https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/tree-by-hand.r<br/
 source("tree-by-hand.r")<br/>
 # Video tutorial (For linux)
 http://www.viewpure.com/QS<br/>
-Password unlock by <br/>
+Password unlock contact <br/>
 gmail: sangcnsh.ntu@gmail.com <br/>
 Zalo: +84975359004<br/>
-# If Windows (9 steps)
+# Windows (9 steps)
 # Notifications
 If you have already created the fasta file and processed (making equal sequence) you should start at step 7 onwards<br/> 
 If not, you must start at step 1 onwards<br/>
-# Step1: Open R-studio<br/>
+# Step1: Open Rstudio and interface skimming<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98062932-8a030400-1e81-11eb-9902-6247af9477f2.png" width="30%"></img><br/>
 The interface includes 4 regions <br/>
 1. Code editor <br/>
