@@ -1,7 +1,7 @@
 # Hi everyone!
 I am very glad to share with you how to build/construct the phylogenetic tree and<br/>
 how to use my script to write some simple command lines for building the tree based on the tools which name is R-studio
-# (Important) Please read clearly before starting and following these steps!
+# (Important) Please read this tutorial carefully before starting!
 # Now let's do it!
 Before entering the jobs, please installing R software (link as below), If the software is already installed, skip it. 
 # R-base and R-studio
