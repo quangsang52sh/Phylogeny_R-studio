@@ -31,7 +31,7 @@ Zalo: +84975359004<br/>
 # If Windows (9 steps)
 # Notifications
 If you have already created the fasta file and processed (making equal sequence) you should start at step 7 onwards<br/> 
-If not, you must to start at step 1 onwards<br/>
+If not, you must start at step 1 onwards<br/>
 # Step1: Open R-studio<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98062932-8a030400-1e81-11eb-9902-6247af9477f2.png" width="30%"></img><br/>
 The interface includes 4 regions <br/>
