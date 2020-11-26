@@ -25,10 +25,7 @@ bash fix-tree-by-hand.sh<br/>
 https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/tree-by-hand.r<br/>
 source("tree-by-hand.r")<br/>
 # Video tutorial (For linux)
-http://www.viewpure.com/QS<br/>
-Password unlock contact <br/>
-gmail: sangcnsh.ntu@gmail.com <br/>
-Zalo: +84975359004<br/>
+https://youtu.be/-HGtTcJ6ycY<br/>
 # Windows (9 steps)
 # Notifications
 If you have already created the fasta file and processed (Step1 to Step6), you should start at step 7 onwards<br/> 
