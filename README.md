@@ -6,7 +6,7 @@ how to use my script to write some simple command lines for building the tree ba
 Before entering the jobs, please installing R software (link as below), If the software is already installed, skip it. 
 # R-base and R-studio
 Lastest R-base version: https://cran.r-project.org/bin/windows/base/<br/>
-Latest R-studio version: https://rstudio.com/products/rstudio/download/
+Latest R-studio version: https://rstudio.com/products/rstudio/download/<br/>
 Requirement package: BiocManager (instruction in step 1 on windows platform)
 # Choose platform installing in your laptop
 # Ubuntu/Linux (3 steps)
@@ -96,7 +96,7 @@ Output "Yourtree.tre" will be saved in folder of Step2 <br/>
 Opening Mega software and enjoy!<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98496536-68848c80-2274-11eb-8447-0868e34752c7.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/51614765/98496540-6a4e5000-2274-11eb-8625-032abe6ce0de.png" width="15%"></img> <br/>
 # Video tutorial (For Windows)
-
+https://youtu.be/bAaXXuN72FU
 # Done here and good luck!  
 # Contact me if you make any trouble
 gmail: sangcnsh.ntu@gmail.com <br/>
