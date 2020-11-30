@@ -7,6 +7,7 @@ Before entering the jobs, please installing R software (link as below), If the s
 # R-base and R-studio
 Lastest R-base version: https://cran.r-project.org/bin/windows/base/<br/>
 Latest R-studio version: https://rstudio.com/products/rstudio/download/
+Requirement package: BiocManager (instruction in step 1 on windows platform)
 # Choose platform installing in your laptop
 # Ubuntu/Linux (3 steps)
 Install with command line: sudo apt install r-base<br/>
@@ -26,9 +27,10 @@ https://github.com/quangsang52sh/Phylogeny_R-studio/blob/main/tree-by-hand.r<br/
 source("tree-by-hand.r")<br/>
 # Video tutorial (For linux)
 https://youtu.be/-HGtTcJ6ycY<br/>
+################################# 
 # Windows (9 steps)
 # Notifications
-If you have already created the fasta file and processed (Step1 to Step6), you should start at step 7 onwards<br/> 
+If you have already created the fasta file and processed (it means that you have already done from Step1 to Step6), you should start at step 7 onwards<br/> 
 If not, you must start at step 1 onwards<br/>
 # Step1: Open R-studio and interface skimming<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98062932-8a030400-1e81-11eb-9902-6247af9477f2.png" width="30%"></img><br/>
@@ -40,6 +42,10 @@ The interface includes 4 regions <br/>
 # Step2: In command line region: <br/>
 Type: getwd()    -----  This is the location folder to contain your data <br/>
 Results here "C:/Users/PC/Documents" <br/>
+Type command line for checking whether the package has already installed or not <br/>
+copy and type: <br/> 
+if (!requireNamespace("BiocManager", quietly = TRUE))<br/>
+    install.packages("BiocManager")<br/>
 # Step3: Create fasta file format and save file name filename.txt <br/>
 It will easy when you are using Notepad++ to format data (Recommended) <br/>
 Free download here: https://notepad-plus-plus.org/downloads/<br/>
@@ -89,6 +95,8 @@ Output "Yourtree.tre" will be saved in folder of Step2 <br/>
 # Step9: Showing your results in Mega software
 Opening Mega software and enjoy!<br/>
 <img src="https://user-images.githubusercontent.com/51614765/98496536-68848c80-2274-11eb-8447-0868e34752c7.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/51614765/98496540-6a4e5000-2274-11eb-8625-032abe6ce0de.png" width="15%"></img> <br/>
+# Video tutorial (For Windows)
+
 # Done here and good luck!  
 # Contact me if you make any trouble
 gmail: sangcnsh.ntu@gmail.com <br/>
